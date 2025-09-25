@@ -1,10 +1,2 @@
-baselines/
-cryptos/
-currency/
-fixed-income/
-relatorios/
-stocks
 venv/
 __pycache__/
-*.csv
-pre-process.ipynb
